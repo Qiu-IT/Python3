@@ -1,1 +1,2 @@
-# Python3
+### Python3
+Generally I use JS for my work but in the future we also need PY and also Java to change the world. I am also using Python3 for my algorithm at leetcode. I think I can use JS algorithms to convert code to Python3, surely Python3 has its charaters, doing that is just for beginning. As known once you use a framework you could learn more about how to code with such program language. Here just recording my steps how to code in python. Here we go!
